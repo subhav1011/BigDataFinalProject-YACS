@@ -1,5 +1,8 @@
 BD project YACS
 
+This project makes use of Socket Programming and simulates a distributed system framework, where Big Data tasks are run on workers based on a
+centralised scheduling algorithm.
+
 To run the files, execute in the following order :-
 
 1. Open 5 terminals 
